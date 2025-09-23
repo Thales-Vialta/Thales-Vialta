@@ -29,7 +29,7 @@
 
 <h2 align="center">⚒️ Meus Conhecimentos ⚒️</h2> 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,c,git,vscode,github,figma, django" /> 
+  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,c,git,vscode,github,figma,django" /> 
   <br/>
   <img src="https://skillicons.dev/icons?i=php,powershell,postgres,mysql,sqlite" /> 
 </p>
