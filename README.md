@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+sou+Thales+Vialta!;Aceita+um+Café?☕;" alt="Typing SVG" /> 
 </h1>
 
-<h3 align="center">Desenvolvedor Fullstack, apaixonado por tecnologia, do Brasil 🇧🇷</h3>
+<h3 align="center">Um dev Aprendiz, focado no Back-end 🇧🇷</h3>
 
 <br/>
 
@@ -17,9 +17,9 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:Thalesvialta12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail badge" />
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=thalesvialta12@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail badge" />
+</a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="portfolio badge" />
   </a>
