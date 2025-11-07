@@ -19,7 +19,7 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thalesvialta12@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail badge" />
 </a>
-  <a href="#" target="_blank">
+  <a href="https://thales-vialta.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="portfolio badge" />
   </a>
 </div>
